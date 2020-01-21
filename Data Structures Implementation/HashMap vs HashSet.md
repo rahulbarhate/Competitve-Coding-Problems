@@ -5,8 +5,14 @@ HashSet vs HashMap
 It maintains a mapping of key & value. eg. {1->"Hello", 2->"Hi", 3->"Bye", 4->"Run"}
 
 
+
+
+
 - HashSet does not allow duplicate values
 - HashMap does not alow duplicate keys but it allows duplicate values
+
+
+
 
 
 - HashSet permits to have a single null value
